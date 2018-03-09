@@ -1,4 +1,4 @@
 # About
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+开了一个新坑，打算讲一些ZUCC学生应该知道的事情。
 https://www.gitbook.com/read/book/hdsky/zucc-student-resources
