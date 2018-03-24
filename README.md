@@ -1,5 +1,5 @@
 [![version](https://img.shields.io/badge/version-beta-blue.svg)](https://github.com/HDsky/zucc-student-resources)
-[![doc](http://progressed.io/bar/10?title=done)](https://github.com/HDsky/zucc-student-resources)
+[![doc](http://progressed.io/bar/50?title=done)](https://github.com/HDsky/zucc-student-resources)
 
 # 关于
 
@@ -13,8 +13,13 @@
 # 前言
 本人作为一名zucc的大四学生，在学习学校课程之外，也热衷于发现zucc、zju、以及使用学生身份所能带来的优惠，甚至有些能够丰富我们的校园生活，带给你和你的小伙伴一定的乐趣。而作为zucc的学生，很多同学包括服务对应的计算学院的同学却不知道该如何获取这些实用的信息，本人倍感痛心与如此现状，受ivmm所编写的学生权益指南为启发，打算编写一份囊括与zucc学子与学生身份的权益指南，希望能够帮助到一些需要这些服务的人，另一方面也希望同学能够减少使用盗版。同时也感谢为本文收集资料以及参与编写的人员，在此提前表示感谢。
 
-# 校内优惠
-- **[NexusHD](http://www.nexushd.org/index.php)**
+# 校内福利
+- **[学校VPN](https://202.107.195.204/por/login_psw.csp?)**, 学校提供了VPN服务方便学生在校外访问内网，在手机上也可以按照教程使用EasyConnect客户端进行连接，十分方便（在此安利一下自己写的[zucc寝室内外网同时访问脚本](https://github.com/HDsky/A-batchfile-for-ZUCC)）
+- **[ZUCC学生邮箱](http://webmail.zucc.edu.cn/)**，要想获取到一些学生优惠，目前比较重要的就是证明你的学生身份，而使用教育邮箱则是最简单的方式，请熟练使用zucc学生邮箱。
+- **[ZUCC图书馆数字资源](http://libweb.zucc.edu.cn/redir.php?catalog_id=3701)**， 学校购买了很多数字资源，很多同学在查找论文的时候会去知网等数字资源购买，但其实学校图书馆已经购买了大部分数字资源，在学校内网即可方式，实在不济还可以访问浙江大学的图书馆数字资源，因为zucc和浙大的内网是互联互通的。在寝室可以使用上面提到的zucc寝室内外网访问脚本，在大多数情况下不用频繁的往图书馆跑惹~
+- **[NexusHD](http://www.nexushd.org/index.php)**，浙江大学的内网PT站（注册有些麻烦因为只支持zju结尾的邮箱后缀，所以城院学生可以使用zucc学生邮箱向管理员发邮件的方式注册账号）
+- **[求是潮网盘](http://box.zjuqsc.com)**, 内网外网都能使用的学校网盘，用来在内网传送一些小文件十分方便，在校内打印店也能使用。
+- **[一夫天下](http://cc.zucc.edu.cn)**, 一个相对较老的zucc内网资源网站，对于一些同学来讲是比较实用的，这个是在zucc范围来说大家比较熟知的了，不做过多的介绍。
 
 # 学生包
 
@@ -36,7 +41,12 @@
 - **[腾讯云+校园计划](https://www.qcloud.com/act/campus)**，10元一个月的云服务器租用，免费域名、云储存，需要抢购。
 - **[美团云 云帆校园](https://www.mtyun.com/activity-school)**，8.8元，1C1G1M + 50数据盘。
 - **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，苹果设备优惠，Music和 Pro APP 优惠，暑假还会有学生优惠大促销。
+>其他苹果系的还有：  
+>1）Apple Music学生订阅只需5元/月。 
 - **[微软教育商店](https://www.microsoftstore.com.cn/student?Icid=StoreNavi_EDU)**，9折购买微软旗下的各种硬件设备。
+>其他微软系的还有：  
+>1）通过学校邮箱可以获得office365提供的2TB教育云存储空间。  
+2）使用学生身份可以免费注册微软开发者，免去约120元的注册费用。
 - **[OnTheHub 教育商店](http://www.onthehub.com/)**，PD 和 VMware 的虚拟机优惠，以及更多软件优惠。
 - **[SiteGroud 学生计划](https://www.siteground.com/student-hosting.htm)**，WP 官方推荐的主机托管商提供 $1.99/月 高性能 CP 托管。
 - **[Spotify 学生优惠](https://www.spotify.com/hk-zh/student/)**，Spotify Premium学生订阅半价优惠。
