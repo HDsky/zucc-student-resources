@@ -5,5 +5,7 @@
 
 ## 说明
 
-本文部分内容参考自[ivmm所编写的学生优惠权益指南](https://github.com/ivmm/Student-resources)在此向原作者表示感谢。
+本文部分内容参考自[ivmm所编写的学生优惠权益指南](https://github.com/ivmm/Student-resources)，在此向原作者表示感谢。
+
+
 
