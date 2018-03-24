@@ -1,5 +1,6 @@
 [![version](https://img.shields.io/badge/version-beta0.01-blue.svg)](https://github.com/HDsky/zucc-student-resources)
 
+[![version](https://img.shields.io/badge/doc-10%-blue.svg)](https://github.com/HDsky/zucc-student-resources)
 # 关于
 
 开了一个新坑，在大四毕业之前打算讲一些ZUCC学生应该知道的事情。为新入学以及在校的ZUCC小伙伴提供一些帮助。  
