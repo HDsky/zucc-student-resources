@@ -11,5 +11,48 @@
 本文部分内容参考自[ivmm所编写的学生优惠权益指南](https://github.com/ivmm/Student-resources)，在此向原作者表示感谢。
 
 # 前言
-本人作为一名zucc的大四学生，在学习学校课程之外，也热衷于发现zucc、zju、以及使用学生身份所能带来的优惠，甚至有些能够丰富我们的校园生活，带给你和你的小伙伴一定的乐趣。而作为zucc的学生，很多同学包括服务对应的计算学院的同学却不知道该如何获取这些实用的信息，本人倍感痛心与如此现状，受ivmm所编写的学生优惠指南为启发，打算编写一份囊括与zucc学子与学生身份的权益指南，希望能够帮助到一些需要这些服务的人。同时也感谢为本文收集资料以及参与编写的人员，在此提前表示感谢。
+本人作为一名zucc的大四学生，在学习学校课程之外，也热衷于发现zucc、zju、以及使用学生身份所能带来的优惠，甚至有些能够丰富我们的校园生活，带给你和你的小伙伴一定的乐趣。而作为zucc的学生，很多同学包括服务对应的计算学院的同学却不知道该如何获取这些实用的信息，本人倍感痛心与如此现状，受ivmm所编写的学生权益指南为启发，打算编写一份囊括与zucc学子与学生身份的权益指南，希望能够帮助到一些需要这些服务的人，另一方面也希望同学能够减少使用盗版。同时也感谢为本文收集资料以及参与编写的人员，在此提前表示感谢。
 
+# 校内优惠
+- **[NexusHD](http://www.nexushd.org/index.php)**
+
+# 学生包
+
+各类学生优惠项目经过许多年的发展，很多学生包已经不单单只通过 edu 邮箱验证身份了，而且使用 @edu.cn 反而会降低申请成功率。 建议使用学生证、入学通知书等有学院官方标志和日期的工具来证明自己的身份。（一般使用教育邮箱认证即可）
+
+- **[Github 学生包](https://education.github.com/pack)**，高质量的开发工具集合，并提供 DIgitalocean 的 50美元代金券，免费域名一枚。
+- **[Microsoft Imagine 学生包](https://imagine.microsoft.com/zh-cn/catalog)**，免费使用微软的开发软件，包括 Windows Server 系统，以及 Azure 学生订阅。
+- **[AWS 学生包](https://aws.amazon.com/cn/education/awseducate/)**，亚马逊云计算的学生包，可以获得至少 $40 的优惠和教育培训。
+- **[Autodesk 学生包](http://www.autodesk.com.cn/education/home)**，旗下 AutoCAD , 3DMAX , Maya 等软件，其（教育版）免费试用期可延长至三年。
+- **[JetBrains 学生包](https://www.jetbrains.com/student/)**，免费使用各类开发工具和集成工具。
+- **[G Suite for Education](https://edu.google.com/products/productivity-tools/)**，为教育用户提供的谷歌生产力工具套件（大陆不在申请区之内）。
+- **[LINGO Ducational Research License](http://www.lindo.com/index.php?option=com_content&view=article&id=120&Itemid=45)**, LINGO 教育授权，著名线性与非线性求解器，求解优化模型的最佳选择，数学建模必备。
+
+# 学生优惠
+
+- **[赛尔校园先锋](http://shop.edu.cn/)**，以绝对优惠的价格获得 Adobe 软件、Win、Office 正版授权。
+- **[Office in Education](https://products.office.com/en-us/student?tab=students)**，微软家提供的免费 Office 365 教育优惠，中国大多数学校无缘申请。
+- **[阿里云 云翼计划](https://promotion.aliyun.com/ntms/campus2017.html)**，118元/年，阿里云ECS+OSS+域名+机器学习API+Clouder认证。
+- **[腾讯云+校园计划](https://www.qcloud.com/act/campus)**，10元一个月的云服务器租用，免费域名、云储存，需要抢购。
+- **[美团云 云帆校园](https://www.mtyun.com/activity-school)**，8.8元，1C1G1M + 50数据盘。
+- **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，苹果设备优惠，Music和 Pro APP 优惠，暑假还会有学生优惠大促销。
+- **[微软教育商店](https://www.microsoftstore.com.cn/student?Icid=StoreNavi_EDU)**，9折购买微软旗下的各种硬件设备。
+- **[OnTheHub 教育商店](http://www.onthehub.com/)**，PD 和 VMware 的虚拟机优惠，以及更多软件优惠。
+- **[SiteGroud 学生计划](https://www.siteground.com/student-hosting.htm)**，WP 官方推荐的主机托管商提供 $1.99/月 高性能 CP 托管。
+- **[Spotify 学生优惠](https://www.spotify.com/hk-zh/student/)**，Spotify Premium学生订阅半价优惠。
+- **[Pantheon 学生版](https://pantheon.io/edu)**，专业高性能网站托管的学生优惠。
+- **[大疆教育优惠](http://coupon.dji.com/cn/edu)**，大疆产品的教育折扣。
+- **[幕布笔记教育优惠](http://cn.mikecrm.com/BrUWPMy)**，幕布面向学生、公益组织和教育机构推出的专属优惠措施，高级版八折优惠。   
+
+# 实用干货
+
+- **[CreativeMarket Free Goods](https://creativemarket.com/free-goods)**，每周免费六款设计资源，电商、前端必备。
+- **[Axure](https://www.axure.com/edu)**， 原型设计工具，产品、运营必备，学生、教师免费。
+- **[Minecraft](http://education.minecraft.net/get-started)**， 我的世界教育免费版 ，仅支持邮箱。
+- **[Mathematica](http://www.wolfram.com/mathematica/pricing/students-individuals.php)**， 现代科学计算软件，3折优惠 50刀，添加购物车后显示。
+- **[Tableau](https://www.tableau.com/zh-cn/academic)**， 数据可视化分析软件，对学生、教室以及教育组织提供免费使用。
+
+# 推荐软件
+
+- **[CloudConvert](https://cloudconvert.com/)**，转码神器，格式齐全的在线转码利器。
+- **[Smallpdf](https://smallpdf.com/)**，专业文档转PDF，PDF转文档神器。
