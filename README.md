@@ -29,7 +29,7 @@
 - **[Microsoft Imagine 学生包](https://imagine.microsoft.com/zh-cn/catalog)**，免费使用微软的开发软件，包括 Windows Server 系统，以及 Azure 学生订阅。
 - **[AWS 学生包](https://aws.amazon.com/cn/education/awseducate/)**，亚马逊云计算的学生包，可以获得至少 $40 的优惠和教育培训。
 - **[Autodesk 学生包](http://www.autodesk.com.cn/education/home)**，旗下 AutoCAD、3DMAX、Maya 等软件，其（教育版）免费试用期可延长至三年。
-- **[JetBrains 学生包](https://www.jetbrains.com/student/)**，免费使用各类开发工具和集成工具（比较有名的有IDEA，CLion，）。
+- **[JetBrains 学生包](https://www.jetbrains.com/student/)**，免费使用各类开发工具和集成工具（比较有名的有IDEA、CLion、PyCharm）。
 - **[G Suite for Education](https://edu.google.com/products/productivity-tools/)**，为教育用户提供的谷歌生产力工具套件（大陆不在申请区之内）。
 - **[LINGO Ducational Research License](http://www.lindo.com/index.php?option=com_content&view=article&id=120&Itemid=45)**, LINGO 教育授权，著名线性与非线性求解器，求解优化模型的最佳选择，数学建模必备。
 
