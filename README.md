@@ -1,5 +1,5 @@
 [![version](https://img.shields.io/badge/version-beta-blue.svg)](https://github.com/HDsky/zucc-student-resources)
-[![doc](http://progressed.io/bar/50?title=done)](https://github.com/HDsky/zucc-student-resources)
+[![doc](http://progressed.io/bar/55?title=done)](https://github.com/HDsky/zucc-student-resources)
 
 # 关于
 
@@ -71,3 +71,8 @@
 
 # 生活类
 - **海底捞火锅**，在校学生在15:00-17:00,22:00-次日08:00内就餐开台并买单离开可享6.9折（截止时间不详以商家为准）
+
+# 其他建议
+**如何科学提问**：《[提问的智慧](http://git.oschina.net/mifar/How-To-Ask-Questions-The-Smart-Way)》
+
+**搜索引擎**： 为了你的身体健康、事业有成，请尽量*减少使用百度*的频率。
