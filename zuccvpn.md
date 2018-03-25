@@ -6,7 +6,7 @@
 
 * 学号
 * 学校统一认证密码（这个一般是身份证后6位）
-* easyconnect客户端（[IOS下载](https://itunes.apple.com/cn/app/easyconnect/id440460214?mt=8)\|[Andrido下载](https://202.107.195.204/por/android.csp)\|[PC](https://202.107.195.204/com/setup.html?4)）
+* easyconnect客户端（[IOS下载](https://itunes.apple.com/cn/app/easyconnect/id440460214?mt=8)\|[Android下载](https://202.107.195.204/por/android.csp)\|[PC下载](https://202.107.195.204/com/setup.html?4)）
 
 ## 开始行动
 
