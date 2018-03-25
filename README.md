@@ -11,41 +11,41 @@
 本文部分内容参考自[ivmm所编写的学生优惠权益指南](https://github.com/ivmm/Student-resources)，在此向原作者表示感谢。
 
 # 前言
-本人作为一名zucc的大四学生，在学习学校课程之外，也热衷于发现zucc、zju、以及使用学生身份所能带来的优惠，甚至有些能够丰富我们的校园生活，带给你和你的小伙伴一定的乐趣。而作为zucc的学生，很多同学包括服务对应的计算学院的同学却不知道该如何获取这些实用的信息，本人倍感痛心与如此现状，受ivmm所编写的学生权益指南为启发，打算编写一份囊括与zucc学子与学生身份的权益指南，希望能够帮助到一些需要这些服务的人，另一方面也希望同学能够减少使用盗版。同时也感谢为本文收集资料以及参与编写的人员，在此提前表示感谢。
+本人作为一名zucc的大四学生，在学习学校课程之外，也热衷于发现zucc、zju、以及使用学生身份所能带来的优惠，甚至有些能够丰富我们的校园生活，带给你和你的小伙伴一定的乐趣。而作为zucc的学生，很多同学包括服务对应的计算学院的同学却不知道该如何获取这些实用的信息，本人倍感痛心与如此现状，受ivmm所编写的学生权益指南为启发，打算编写一份囊括zucc学子与学生身份的权益指南，希望能够帮助到一些需要这些服务的人，另一方面也希望同学能够减少使用盗版，在享受权益的同时不要忘记自己应当承担的责任与义务。同时也感谢为本文收集资料以及参与编写的人员，在此提前表示感谢。
 
 # 校内福利
-- **[学校VPN](https://202.107.195.204/por/login_psw.csp?)**, 学校提供了VPN服务方便学生在校外访问内网，在手机上也可以按照教程使用EasyConnect客户端进行连接，十分方便（在此安利一下自己写的[zucc寝室内外网同时访问脚本](https://github.com/HDsky/A-batchfile-for-ZUCC)）
-- **[ZUCC学生邮箱](http://webmail.zucc.edu.cn/)**，要想获取到一些学生优惠，目前比较重要的就是证明你的学生身份，而使用教育邮箱则是最简单的方式，请熟练使用zucc学生邮箱。
-- **[ZUCC图书馆数字资源](http://libweb.zucc.edu.cn/redir.php?catalog_id=3701)**， 学校购买了很多数字资源，很多同学在查找论文的时候会去知网等数字资源购买，但其实学校图书馆已经购买了大部分数字资源，在学校内网即可方式，实在不济还可以访问浙江大学的图书馆数字资源，因为zucc和浙大的内网是互联互通的。在寝室可以使用上面提到的zucc寝室内外网访问脚本，在大多数情况下不用频繁的往图书馆跑惹~
-- **[NexusHD](http://www.nexushd.org/index.php)**，浙江大学的内网PT站（注册有些麻烦因为只支持zju结尾的邮箱后缀，所以城院学生可以使用zucc学生邮箱向管理员发邮件的方式注册账号）
+- **[ZUCC_VPN](https://202.107.195.204/por/login_psw.csp?)**, 学校提供了VPN服务方便学生在校外访问内网，在手机上也可以按照教程使用EasyConnect客户端进行连接，十分方便（在此安利一下自己写的[zucc寝室内外网同时访问脚本](https://github.com/HDsky/A-batchfile-for-ZUCC)）。
+- **[ZUCC学生邮箱](http://webmail.zucc.edu.cn/)**，要想获取到一些学生优惠，比较重要的前提就是证明你的学生身份，而使用教育邮箱则是最简单的方式，请熟练使用zucc学生邮箱。
+- **[ZUCC图书馆数字资源](http://libweb.zucc.edu.cn/redir.php?catalog_id=3701)**，很多同学在查找论文的时候会去知网等数字资源购买，但其实学校图书馆已经购买了大部分数字资源并建立了内网镜像，实在不济还可以访问浙江大学的图书馆数字资源，因为zucc和浙大的内网是互联互通的。在寝室可以使用上面提到的zucc寝室内外网访问脚本，在大多数情况下不用频繁的往图书馆跑了。
+- **[NexusHD](http://www.nexushd.org/index.php)**，浙江大学的内网PT站，里面有大量的高清影视资源，因为是内网传输的原因，速度十分可观。（注册有些麻烦因为只支持zju结尾的邮箱后缀，所以城院学生可以通过zucc学生邮箱向管理员发邮件的方式来注册账号）
 - **[求是潮网盘](http://box.zjuqsc.com)**, 内网外网都能使用的学校网盘，用来在内网传送一些小文件十分方便，在校内打印店也能使用。
-- **[一夫天下](http://cc.zucc.edu.cn)**, 一个相对较老的zucc内网资源网站，对于一些同学来讲是比较实用的，这个是在zucc范围来说大家比较熟知的了，不做过多的介绍。
+- **[一夫天下](http://cc.zucc.edu.cn)**, 一个相对较老的zucc内网资源网站，对于一些同学来讲是比较实用的，这个在zucc范围来说大家比较熟知的了，不做过多的介绍。
 
 # 学生包
 
 各类学生优惠项目经过许多年的发展，很多学生包已经不单单只通过 edu 邮箱验证身份了，而且使用 @edu.cn 反而会降低申请成功率。 建议使用学生证、入学通知书等有学院官方标志和日期的工具来证明自己的身份。（一般使用教育邮箱认证即可）
 
-- **[Github 学生包](https://education.github.com/pack)**，高质量的开发工具集合，并提供 DIgitalocean 的 50美元代金券，免费域名一枚。
+- **[Github 学生包](https://education.github.com/pack)**，高质量的开发工具集合，并提供 DIgitalocean 的 50美元代金券，以及namecheap提供的免费.me域名一枚。
 - **[Microsoft Imagine 学生包](https://imagine.microsoft.com/zh-cn/catalog)**，免费使用微软的开发软件，包括 Windows Server 系统，以及 Azure 学生订阅。
 - **[AWS 学生包](https://aws.amazon.com/cn/education/awseducate/)**，亚马逊云计算的学生包，可以获得至少 $40 的优惠和教育培训。
-- **[Autodesk 学生包](http://www.autodesk.com.cn/education/home)**，旗下 AutoCAD , 3DMAX , Maya 等软件，其（教育版）免费试用期可延长至三年。
-- **[JetBrains 学生包](https://www.jetbrains.com/student/)**，免费使用各类开发工具和集成工具。
+- **[Autodesk 学生包](http://www.autodesk.com.cn/education/home)**，旗下 AutoCAD、3DMAX、Maya 等软件，其（教育版）免费试用期可延长至三年。
+- **[JetBrains 学生包](https://www.jetbrains.com/student/)**，免费使用各类开发工具和集成工具（比较有名的有IDEA，CLion，）。
 - **[G Suite for Education](https://edu.google.com/products/productivity-tools/)**，为教育用户提供的谷歌生产力工具套件（大陆不在申请区之内）。
 - **[LINGO Ducational Research License](http://www.lindo.com/index.php?option=com_content&view=article&id=120&Itemid=45)**, LINGO 教育授权，著名线性与非线性求解器，求解优化模型的最佳选择，数学建模必备。
 
 # 学生优惠
 
 - **[赛尔校园先锋](http://shop.edu.cn/)**，以绝对优惠的价格获得 Adobe 软件、Win、Office 正版授权。
-- **[Office in Education](https://products.office.com/en-us/student?tab=students)**，微软家提供的免费 Office 365 教育优惠，中国大多数学校无缘申请。
 - **[阿里云 云翼计划](https://promotion.aliyun.com/ntms/campus2017.html)**，118元/年，阿里云ECS+OSS+域名+机器学习API+Clouder认证。
 - **[腾讯云+校园计划](https://www.qcloud.com/act/campus)**，10元一个月的云服务器租用，免费域名、云储存，需要抢购。
 - **[美团云 云帆校园](https://www.mtyun.com/activity-school)**，8.8元，1C1G1M + 50数据盘。
 - **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，苹果设备优惠，Music和 Pro APP 优惠，暑假还会有学生优惠大促销。
->其他苹果系的还有：  
->1）Apple Music学生订阅只需5元/月。 
+>补充说明：  
+>1）Apple Music学生订阅只需5元/月。  
+2）每年苹果都会有教育优惠季，在那段时间购买可以额外附赠Beats耳机一副。 
 - **[微软教育商店](https://www.microsoftstore.com.cn/student?Icid=StoreNavi_EDU)**，9折购买微软旗下的各种硬件设备。
 >其他微软系的还有：  
->1）通过学校邮箱可以获得office365提供的2TB教育云存储空间。  
+>1）通过学校邮箱注册Office In Eduation可以获得office365提供的2TB教育云存储空间。  
 2）使用学生身份可以免费注册微软开发者，免去约120元的注册费用。
 - **[OnTheHub 教育商店](http://www.onthehub.com/)**，PD 和 VMware 的虚拟机优惠，以及更多软件优惠。
 - **[SiteGroud 学生计划](https://www.siteground.com/student-hosting.htm)**，WP 官方推荐的主机托管商提供 $1.99/月 高性能 CP 托管。
@@ -56,9 +56,10 @@
 
 # 实用干货
 
+- **[Wolfram|Alpha](https://www.wolframalpha.com/)**, 学生必备的一款在线自动问答系统。
 - **[CreativeMarket Free Goods](https://creativemarket.com/free-goods)**，每周免费六款设计资源，电商、前端必备。
 - **[Axure](https://www.axure.com/edu)**， 原型设计工具，产品、运营必备，学生、教师免费。
-- **[Minecraft](http://education.minecraft.net/get-started)**， 我的世界教育免费版 ，仅支持邮箱。
+- **[Minecraft](http://education.minecraft.net/get-started)**，我的世界教育免费版 ，仅支持邮箱。
 - **[Mathematica](http://www.wolfram.com/mathematica/pricing/students-individuals.php)**， 现代科学计算软件，3折优惠 50刀，添加购物车后显示。
 - **[Tableau](https://www.tableau.com/zh-cn/academic)**， 数据可视化分析软件，对学生、教室以及教育组织提供免费使用。
 
@@ -66,3 +67,7 @@
 
 - **[CloudConvert](https://cloudconvert.com/)**，转码神器，格式齐全的在线转码利器。
 - **[Smallpdf](https://smallpdf.com/)**，专业文档转PDF，PDF转文档神器。
+- **[Visual Studio Code](https://code.visualstudio.com/)**, 微软开发的跨平台文本编辑器。
+
+# 生活类
+- **海底捞火锅**，在校学生在15:00-17:00,22:00-次日08:00内就餐开台并买单离开可享6.9折（截止时间不详以商家为准）
