@@ -67,7 +67,6 @@
 
 - **[CloudConvert](https://cloudconvert.com/)**，转码神器，格式齐全的在线转码利器。
 - **[Smallpdf](https://smallpdf.com/)**，专业文档转PDF，PDF转文档神器。
-- **[Visual Studio Code](https://code.visualstudio.com/)**, 微软开发的跨平台文本编辑器。
 
 # 生活类
 - **海底捞火锅**，在校学生在15:00-17:00,22:00-次日08:00内就餐开台并买单离开可享6.9折（截止时间不详以商家为准）
