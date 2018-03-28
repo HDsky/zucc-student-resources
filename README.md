@@ -1,5 +1,5 @@
 [![version](https://img.shields.io/badge/version-beta-blue.svg)](https://github.com/HDsky/zucc-student-resources)
-[![doc](http://progressed.io/bar/55?title=done)](https://github.com/HDsky/zucc-student-resources)
+[![doc](http://progressed.io/bar/80?title=done)](https://github.com/HDsky/zucc-student-resources)
 
 # 关于
 
