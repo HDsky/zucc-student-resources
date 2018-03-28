@@ -25,7 +25,7 @@
 
 各类学生优惠项目经过许多年的发展，很多学生包已经不单单只通过 edu 邮箱验证身份了，而且使用 @edu.cn 反而会降低申请成功率。建议使用学生证、入学通知书等有学院官方盖章和日期的工具来证明自己的身份。（一般使用教育邮箱认证即可）
 
-- **[GitHub 学生包](https://education.github.com/pack)**，高质量的开发工具集合，并提供 DigitalOcean 的 50 美元代金券，以及 namecheap 提供的免费.me域名一枚。
+- **[GitHub 学生包](https://education.github.com/pack)**，高质量的开发工具集合，并提供 DigitalOcean 的 50 美元代金券，以及 Namecheap 提供的免费.me域名一枚。
 - **[Microsoft Imagine 学生包](https://imagine.microsoft.com/zh-cn/catalog)**，免费使用微软的开发软件，包括 Windows Server 系统，以及 Azure 学生订阅。
 - **[AWS 学生包](https://aws.amazon.com/cn/education/awseducate/)**，亚马逊云计算的学生包，可以获得至少 $40 的优惠和教育培训。
 - **[Autodesk 学生包](http://www.autodesk.com.cn/education/home)**，旗下 AutoCAD、3DMAX、Maya 等软件，其（教育版）免费试用期可延长至三年。
