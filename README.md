@@ -1,5 +1,4 @@
-[![version](https://img.shields.io/badge/version-beta-blue.svg)](https://github.com/HDsky/zucc-student-resources)
-[![doc](http://progressed.io/bar/80?title=done)](https://github.com/HDsky/zucc-student-resources)
+![doc](http://progressed.io/bar/80?title=done)
 
 # 关于
 
@@ -38,7 +37,7 @@
 - **[赛尔校园先锋](http://shop.edu.cn/)**，以绝对优惠的价格~~获得 Adobe 软件、Win、Office 正版授权~~。
 - **[阿里云 云翼计划](https://promotion.aliyun.com/ntms/campus2017.html)**，118元/年，阿里云ECS+OSS+域名+机器学习API+Clouder认证。
 - **[腾讯云+校园计划](https://www.qcloud.com/act/campus)**，10元一个月的云服务器租用，免费域名、云储存，需要抢购。
-- **[美团云 云帆校园](https://www.mtyun.com/activity-school)**，8.8元，1C1G1M + 50数据盘。
+-  ~~**[美团云 云帆校园](https://www.mtyun.com/activity-school)**，8.8元，1C1G1M + 50数据盘。~~
 - **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，苹果设备优惠，Music 和 Pro App 套装优惠，暑假还会有学生优惠大促销。
 >补充说明：  
 >1）Apple Music 学生订阅只需5元/月。  
