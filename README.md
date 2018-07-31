@@ -1,4 +1,4 @@
-![doc](http://progressed.io/bar/99.99?title=done)
+![doc](http://progressed.io/bar/99?title=done)
 
 # 关于
 
