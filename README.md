@@ -1,4 +1,4 @@
-![doc](http://progressed.io/bar/80?title=done)
+![doc](http://progressed.io/bar/99.99?title=done)
 
 # 关于
 
@@ -72,7 +72,7 @@
 - **海底捞火锅**，在校学生在15:00-17:00,22:00-次日08:00内就餐开台并买单离开可享6.9折（优惠适用门店与时间请以商家为准） 
 
 # 浏览器插件推荐 （尚未完成）
-**[专题页面（尚未完成）](https://github.com/HDsky/zucc-student-resources/blob/master/liu-lan-qi-cha-jian-tui-jian.md)**
+**[专题页面](https://github.com/HDsky/zucc-student-resources/blob/master/liu-lan-qi-cha-jian-tui-jian.md)**
 # 其他建议
 **如何科学提问**：《[提问的智慧](http://git.oschina.net/mifar/How-To-Ask-Questions-The-Smart-Way)》
 
