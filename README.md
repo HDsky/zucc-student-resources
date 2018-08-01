@@ -13,9 +13,9 @@
 本人作为一名zucc的大四学生，在学习学校课程之外，也热衷于发现zucc、zju、以及使用学生身份所能带来的优惠，甚至有些能够丰富我们的校园生活，带给你和你的小伙伴一定的乐趣。而作为zucc的学生，很多同学包括服务对应的计算学院的同学却不知道该如何获取这些实用的信息，本人倍感痛心与如此现状，受ivmm所编写的学生权益指南为启发，打算编写一份囊括zucc学子与学生身份的权益指南，希望能够帮助到一些需要这些服务的人，另一方面也希望同学能够减少使用盗版，在享受权益的同时不要忘记自己应当承担的责任与义务。同时也感谢为本文收集资料以及参与编写的人员，在此提前表示感谢。
 
 # 校内福利
-- **[ZUCC_VPN](https://github.com/HDsky/zucc-student-resources/blob/master/zuccvpn.md)**, 学校提供了VPN服务方便学生在校外访问内网，在手机上也可以按照教程使用EasyConnect客户端进行连接，十分方便（在此安利一下自己写的[zucc寝室内外网同时访问脚本](https://github.com/HDsky/A-batchfile-for-ZUCC)）。
+- **[ZUCC_VPN](https://github.com/HDsky/zucc-student-resources/blob/master/zuccvpn.md)**, 学校提供了VPN服务方便学生在校外访问内网，在手机上也可以按照教程使用EasyConnect客户端进行连接，十分方便（在此安利一下自己写的[zucc寝室内外网同时访问脚本](https://github.com/HDsky/A-batchfile-for-ZUCC)，当然你要是自己会改静态路由也行）。
 - **[ZUCC学生邮箱](http://webmail.zucc.edu.cn/)**，要想获取到一些学生优惠，比较重要的前提就是证明你的学生身份，而使用学校邮箱则是最经典的方式，请熟练使用ZUCC学生邮箱。
-- **[ZUCC图书馆数字资源](http://libweb.zucc.edu.cn/redir.php?catalog_id=3701)**，很多同学在查找论文的时候会去购买知网等数字资源，但其实学校图书馆已经购买了大部分常用数据库并建立了内网镜像，实在不济还可以通过数字资源专用VPN访问浙江大学的图书馆购买的200余个数据库。因为ZUCC和ZJU的内网是互联互通的，所以可以访问浙大建立的所有的内网镜像。在寝室则可以使用上面提到内外网访问脚本，在大多数情况下不用频繁的往图书馆跑了。
+- **[ZUCC图书馆数字资源](http://libweb.zucc.edu.cn/redir.php?catalog_id=3701)**，很多同学在查找论文的时候会去购买知网等数字资源，但其实学校图书馆已经购买了大部分常用数据库并建立了内网镜像，实在不济还可以通过数字资源专用VPN访问浙江大学的图书馆购买的200余个数据库。因为ZUCC和ZJU的内网是互联互通的，可以访问浙大建立的所有的内网镜像。在寝室则可以使用上面提到内外网访问脚本，在大多数情况下不用频繁的往图书馆跑了。
 - **[NexusHD](http://www.nexushd.org)**，浙江大学的内网PT站，以高清影视资源为主，辅以少量无损音乐、游戏和学习等资源。因为是内网传输的原因，速度十分可观。（自助注册暂未开放城院邮箱，城院学生可以通过自己的ZUCC学生邮箱向管理组信箱发邮件注册账号，注明原因和希望注册的用户名，并务必遵守站点规则）
 - **[求是潮网盘](http://box.zjuqsc.com)**, 内网外网都能使用的学校网盘，用来在内网传送一些小文件十分方便，在校内打印店也能使用。
 - **[一夫天下](http://cc.zucc.edu.cn)**, 一个相对较老的zucc内网资源网站，对于一些同学来讲是比较实用的，这个在zucc范围来说大家比较熟知的了，不做过多的介绍。
@@ -52,10 +52,12 @@
 - **[Pantheon 学生版](https://pantheon.io/edu)**，专业高性能网站托管的学生优惠。
 - **[大疆教育优惠](http://coupon.dji.com/cn/edu)**，大疆产品的教育折扣。
 - **[幕布笔记教育优惠](http://cn.mikecrm.com/BrUWPMy)**，幕布面向学生、公益组织和教育机构推出的专属优惠措施，高级版八折优惠。   
+- **[Todoist教育优惠](https://todoist.com/education)**，强大的任务、思路整理工具提供半价教育优惠。
+- **[SetAPP教育优惠](https://setapp.com/educational-discount)**，macOS 应用合集订阅包半价优惠，非常适合MAC学生党，每月4.99刀
 
 # 实用干货
 
-- **[Wolfram|Alpha](https://www.wolframalpha.com/)**, 学生必备的一款在线自动问答系统。
+- **[Wolfram|Alpha](https://www.wolframalpha.com/)**, 理工科学生必备的一款在线自动问答系统。
 - **[CreativeMarket Free Goods](https://creativemarket.com/free-goods)**，每周免费六款设计资源，电商、前端必备。
 - **[Axure](https://www.axure.com/edu)**，原型设计工具，产品、运营必备，学生、教师免费。
 - **[Minecraft](http://education.minecraft.net/get-started)**，我的世界教育免费版 ，仅支持邮箱。
@@ -73,7 +75,15 @@
 
 # 浏览器插件推荐 （尚未完成）
 **[专题页面](https://github.com/HDsky/zucc-student-resources/blob/master/liu-lan-qi-cha-jian-tui-jian.md)**
+
 # 其他建议
 **如何科学提问**：《[提问的智慧](http://git.oschina.net/mifar/How-To-Ask-Questions-The-Smart-Way)》
 
 **搜索引擎**： 为了你的身体健康、事业有成，请尽量*减少使用百度*的频率。
+
+
+## LICENSE
+
+![by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
