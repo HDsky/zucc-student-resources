@@ -1,16 +1,12 @@
 # 浏览器插件推荐
 
-开发工具
+## 开发工具
 
-Restlet Client-REST API Testing
+- Restlet Client-REST API Testing(是一款基于Chrome浏览器的Web Api调试工具)
 
-vim党chrome插件：Vimium
+- vim党chrome插件：Vimium
 
-## 百度网盘助手 + aria2，突破百度网盘下载限速
-
-你们肯定都受够了百度网盘的糟糕体验，先不提那个带有全家桶性质的App，网页端不能直接下载超过一定大小的文件，默认的多文件下载功能极易中断且速度缓慢。
-
-这次推荐的是 Aria2 这款下载工具，支持 Windows、Mac、Linux、Android 各平台。官网上是这样说的：
+- 百度网盘助手 + aria2，突破百度网盘下载限速
 
 > aria2 is a **lightweight** multi-protocol & multi-source command-line **download utility**. It supports **HTTP/HTTPS**, **FTP**, **SFTP**, **BitTorrent** and **Metalink**. aria2 can be manipulated via built-in **JSON-RPC** and **XML-RPC** interfaces.
 >
@@ -23,4 +19,3 @@ vim党chrome插件：Vimium
 [https://www.zhihu.com/question/28333225](https://www.zhihu.com/question/28333225)
 
 [https://medium.com/@Justin\_\_\_Smith/aria2配置教程-mac和windows-b31d0f64bd4e](https://medium.com/@Justin___Smith/aria2配置教程-mac和windows-b31d0f64bd4e)
-
