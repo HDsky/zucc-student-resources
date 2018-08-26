@@ -14,6 +14,7 @@
 
 # 校内福利
 - **[ZUCC_VPN](https://github.com/HDsky/zucc-student-resources/blob/master/zuccvpn.md)**，学校提供了VPN服务方便学生在校外访问内网，在手机上也可以按照教程使用EasyConnect客户端进行连接，十分方便（在此安利一下自己写的[zucc寝室内外网同时访问脚本](https://github.com/HDsky/A-batchfile-for-ZUCC)，当然你要是自己会改静态路由也行，其他操作系统的原理也是相通的）。
+- **[ZUCC_WEBVPN](http://webvpn.zucc.edu.cn)**，学校新推出的WEB版VPN（当然这种方式限制了你访问的网站）。
 - **[ZUCC学生邮箱](http://webmail.zucc.edu.cn/)**，要想获取到一些学生优惠，比较重要的前提就是证明你的学生身份，而使用学校邮箱则是最经典的方式，请熟练使用ZUCC学生邮箱。
 - **[ZUCC图书馆数字资源](http://libweb.zucc.edu.cn/redir.php?catalog_id=3701)**，很多同学在查找论文的时候会去购买知网等数字资源，但其实学校图书馆已经购买了大部分常用数据库并建立了内网镜像，实在不济还可以通过数字资源专用VPN访问浙江大学的图书馆购买的200余个数据库。因为ZUCC和ZJU的内网是互联互通的，可以访问浙大建立的所有的内网镜像。在寝室则可以使用上面提到内外网访问脚本，在大多数情况下不用频繁的往图书馆跑了。
 - **[NexusHD](http://www.nexushd.org)**，浙江大学的内网PT站，以高清影视资源为主，辅以少量无损音乐、游戏和学习等资源。因为是内网传输的原因，速度十分可观。（自助注册暂未开放城院邮箱，城院学生可以通过自己的ZUCC学生邮箱向NHD管理员信箱发邮件注册账号，注明原因和希望注册的用户名，注意语言，态度友好，并务必遵守站点规则）
