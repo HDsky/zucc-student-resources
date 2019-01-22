@@ -55,6 +55,7 @@
 - **[幕布笔记教育优惠](http://cn.mikecrm.com/BrUWPMy)**，幕布面向学生、公益组织和教育机构推出的专属优惠措施，高级版八折优惠。   
 - **[Todoist教育优惠](https://todoist.com/education)**，强大的任务、思路整理工具提供半价教育优惠。
 - **[SetAPP教育优惠](https://setapp.com/educational-discount)**，macOS 应用合集订阅包半价优惠，非常适合MAC学生党，每月4.99刀
+- **[京东阅读校园版](http://gx.jd.com)**，一般学校都会开通试用，可以阅读里面的书籍，详情请参阅京东阅读校园版以及各学校的相关说明。
 
 # 实用干货
 
