@@ -52,7 +52,6 @@
 - **[Spotify 学生优惠](https://www.spotify.com/hk-zh/student/)**，Spotify Premium 学生订阅半价优惠。
 - **[Pantheon 学生版](https://pantheon.io/edu)**，专业高性能网站托管的学生优惠。
 - **[大疆教育优惠](http://coupon.dji.com/cn/edu)**，大疆产品的教育折扣。
-~~- **[幕布笔记教育优惠](http://cn.mikecrm.com/BrUWPMy)**，幕布面向学生、公益组织和教育机构推出的专属优惠措施，高级版八折优惠。~~
 - **[Todoist教育优惠](https://todoist.com/education)**，强大的任务、思路整理工具提供半价教育优惠。
 - **[SetAPP教育优惠](https://setapp.com/educational-discount)**，macOS 应用合集订阅包半价优惠，非常适合MAC学生党，每月4.99刀
 - **[京东阅读校园版](http://gx.jd.com)**，一般学校都会开通试用，可以阅读里面的书籍，详情请参阅京东阅读校园版以及各学校的相关说明。
@@ -63,6 +62,7 @@
 - **[Wolfram|Alpha](https://www.wolframalpha.com/)**， 理工科学生必备的一款在线自动问答系统。
 - **[CreativeMarket Free Goods](https://creativemarket.com/free-goods)**，每周免费六款设计资源，电商、前端必备。
 - **[Axure](https://www.axure.com/edu)**，原型设计工具，产品、运营必备，学生、教师免费。
+- **[Adobe XD](https://www.adobe.com/cn/products/xd.html)**，原型设计工具，官网直接提供免费版，奋起直追Mac的Sketch，Win党难得的福利。此外Adobe还提供对XD插件设计的奖励，可参与设计开发可供XD使用的插件。
 - **[Minecraft](http://education.minecraft.net/get-started)**，我的世界教育免费版 ，仅支持邮箱。
 - **[Mathematica](http://www.wolfram.com/mathematica/pricing/students-individuals.php)**， 现代科学计算软件，3折优惠 50刀，添加购物车后显示。
 - **[Tableau](https://www.tableau.com/zh-cn/academic)**， 数据可视化分析软件，对学生、教室以及教育组织提供免费使用。
