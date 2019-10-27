@@ -1,18 +1,18 @@
 ![doc](http://progressed.io/bar/99?title=done)
 
-# 关于
-
 开了一个新坑，在大四毕业之前打算讲一些ZUCC学生应该知道的事情。为新入学以及在校的ZUCC小伙伴提供一些帮助。  
 [Gitbook链接](https://www.gitbook.com/read/book/hdsky/zucc-student-resources)
 
-# 说明
+最后更新日期：2019年10月27日
+
+## 说明
 
 本文部分内容参考自[ivmm所编写的学生优惠权益指南](https://github.com/ivmm/Student-resources)，在此向原作者表示感谢。
 
-# 前言
+## 前言
 本人作为一名zucc的大四学生，在学习学校课程之外，也热衷于发现zucc、zju、以及使用学生身份所能带来的优惠，甚至有些能够丰富我们的校园生活，带给你和你的小伙伴一定的乐趣。而作为zucc的学生，很多同学包括服务对应的计算学院的同学却不知道该如何获取这些实用的信息，本人倍感痛心与如此现状，受ivmm所编写的学生权益指南为启发，打算编写一份囊括zucc学子与学生身份的权益指南，希望能够帮助到一些需要这些服务的人，另一方面也希望同学能够减少使用盗版，在享受权益的同时不要忘记自己应当承担的责任与义务。同时也感谢为本文收集资料以及参与编写的人员，在此提前表示感谢。
 
-# 校内福利
+## 校内福利
 - **[ZUCC_VPN](https://github.com/HDsky/zucc-student-resources/blob/master/zuccvpn.md)**，学校提供了VPN服务方便学生在校外访问内网，在手机上也可以按照教程使用EasyConnect客户端进行连接，十分方便（在此安利一下自己写的[zucc寝室内外网同时访问脚本](https://github.com/HDsky/A-batchfile-for-ZUCC)，当然你要是自己会改静态路由也行，其他操作系统的原理也是相通的）。
 - **[ZUCC_WEBVPN](http://webvpn.zucc.edu.cn)**，学校新推出的WEB版VPN（当然这种方式限制了你访问的网站）。
 - **[ZUCC学生邮箱](http://webmail.zucc.edu.cn/)**，要想获取到一些学生优惠，比较重要的前提就是证明你的学生身份，而使用学校邮箱则是最经典的方式，请熟练使用ZUCC学生邮箱。
@@ -21,7 +21,7 @@
 - **[求是潮网盘](http://box.zjuqsc.com)**，内网外网都能使用的学校网盘，用来在内网传送一些小文件十分方便，在校内打印店也能使用。
 - **[一夫天下](http://cc.zucc.edu.cn)**，一个相对较老的zucc内网资源网站，对于一些同学来讲是比较实用的，这个在zucc范围来说大家比较熟知的了，不做过多的介绍。
 
-# 学生包
+## 学生包
 
 各类学生优惠项目经过许多年的发展，很多学生包已经不单单只通过 edu 邮箱验证身份了，而且使用 @edu.cn 反而会降低申请成功率。建议使用学生证、入学通知书等有学院官方盖章和日期的工具来证明自己的身份（一般使用教育邮箱认证即可，校内邮箱经常会把发送的验证邮件当作垃圾邮件，如果在垃圾邮件中也找不到的话，还可以在‘自助查询’的栏目中的‘收信查询’中，把隔离的邮件转移出来）。
 
@@ -33,7 +33,7 @@
 - **[G Suite for Education](https://edu.google.com/products/productivity-tools/)**，为教育用户提供的谷歌生产力工具套件（大陆不在申请区之内）。
 - **[LINGO Ducational Research License](http://www.lindo.com/index.php?option=com_content&view=article&id=120&Itemid=45)**，LINGO 教育授权，著名线性与非线性求解器，求解优化模型的最佳选择，数学建模必备。
 
-# 学生优惠
+## 学生优惠
 
 - **[阿里云 云翼计划](https://promotion.aliyun.com/ntms/campus2017.html)**，118元/年，阿里云ECS+OSS+域名+机器学习API+Clouder认证。
 - **[腾讯云+校园计划](https://www.qcloud.com/act/campus)**，10元一个月的云服务器租用，免费域名、云储存，需要抢购。
@@ -57,7 +57,7 @@
 - **[京东阅读校园版](http://gx.jd.com)**，一般学校都会开通试用，可以阅读里面的书籍，详情请参阅京东阅读校园版以及各学校的相关说明。
 - **[Eagle教育优惠](http://app.eagle.cool/forum/topic/5354/%E6%88%91%E6%98%AF%E5%AD%A6%E7%94%9F%E6%88%96%E6%95%99%E5%B8%88-%E6%98%AF%E5%90%A6%E4%BA%AB%E6%9C%89%E4%BC%98%E6%83%A0%E4%BB%B7%E6%A0%BC)**, Win/Mac系统，设计师图片管理工具，支持试用一个月，原价199，优惠价139，需提供身份和证件信息。优秀的本地图片管理工具，搭配学生版OneDrive进行同步管理，美滋滋。（目前已支持图片、视频、字体等类型文件的管理）
 
-# 实用干货
+## 实用干货
 
 - **[Wolfram|Alpha](https://www.wolframalpha.com/)**， 理工科学生必备的一款在线自动问答系统。
 - **[CreativeMarket Free Goods](https://creativemarket.com/free-goods)**，每周免费六款设计资源，电商、前端必备。
@@ -68,20 +68,20 @@
 - **[Tableau](https://www.tableau.com/zh-cn/academic)**， 数据可视化分析软件，对学生、教室以及教育组织提供免费使用。
 - **[ProcessOn](https://www.processon.com/)**， 一个在线协作绘图平台，为用户提供最强大、易用的作图工具！支持在线创作流程图、思维导图、BPMN、UML图、UI界面原型设计、iOS界面原型设计等。
 
-# 推荐软件
+## 推荐软件
 
 - **[CloudConvert](https://cloudconvert.com/)**，转码神器，格式齐全的在线转码利器。
 - **[Smallpdf](https://smallpdf.com/)**，专业文档转PDF，PDF转文档神器。
 - **[Canvas File Sync](https://github.com/drew-royster/canvasFileSync)**，Syncs Canvas-LMS课程文件。
 
-# 生活类
+## 生活类
 - **海底捞火锅**，在校学生在15:00-17:00,22:00-次日08:00内就餐开台并买单离开可享6.9折（优惠适用门店与时间请以商家为准）。
 - **必胜客学生优惠**，学生价八折，详见必胜客相关说明。
 
-# 浏览器插件推荐 （尚未完成）
+## 浏览器插件推荐 （尚未完成）
 **[专题页面](https://github.com/HDsky/zucc-student-resources/blob/master/browserplugin.md)**
 
-# 其他建议
+## 其他建议
 **如何科学提问**：《[提问的智慧](http://git.oschina.net/mifar/How-To-Ask-Questions-The-Smart-Way)》
 
 **搜索引擎**： 为了你的身体健康、事业有成，请尽量 ***减少使用百度*** 的频率。
