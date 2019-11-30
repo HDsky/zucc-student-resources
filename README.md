@@ -1,4 +1,4 @@
-![doc](http://progressed.io/bar/99?title=done)
+![doc](https://img.shields.io/badge/-done-brightgreen)
 
 开了一个新坑，在大四毕业之前打算讲一些ZUCC学生应该知道的事情。为新入学以及在校的ZUCC小伙伴提供一些帮助。  
 [Gitbook链接](https://www.gitbook.com/read/book/hdsky/zucc-student-resources)
