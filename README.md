@@ -3,7 +3,7 @@
 开了一个新坑，在大四毕业之前打算讲一些ZUCC学生应该知道的事情。为新入学以及在校的ZUCC小伙伴提供一些帮助。  
 [Gitbook链接](https://www.gitbook.com/read/book/hdsky/zucc-student-resources)
 
-最后更新日期：2019年10月27日
+最后更新日期：2019年11月30日
 
 ## 说明
 
