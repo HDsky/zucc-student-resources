@@ -82,7 +82,7 @@
 **[专题页面](https://github.com/HDsky/zucc-student-resources/blob/master/browserplugin.md)**
 
 ## 其他建议
-**如何科学提问**：《[提问的智慧](http://git.oschina.net/mifar/How-To-Ask-Questions-The-Smart-Way)》
+**如何科学提问**：《[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)》
 
 **搜索引擎**： 为了你的身体健康、事业有成，请尽量 ***减少使用百度*** 的频率。
 
