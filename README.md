@@ -39,7 +39,7 @@
 - **[腾讯云+校园计划](https://www.qcloud.com/act/campus)**，10元一个月的云服务器租用，免费域名、云储存，需要抢购。
 - **[华为云+云创校园计划](https://developer.huaweicloud.com/campus)**，9元/月 24岁及以下免学生认证，实名认证即可购买，需要抢购。
 - **[百度云启航校园计划](https://cloud.baidu.com/campaign/campus-2018/index.html)**，云服务器半年124元
-- **[苹果教育商店](http://www.apple.com/cn-k12/shop)**，苹果设备优惠，Music 和 Pro App 套装优惠，暑假还会有学生优惠大促销。
+- **[苹果教育商店](https://www.apple.com.cn/cn-k12/shop)**，苹果设备优惠，Music 和 Pro App 套装优惠，暑假还会有学生优惠大促销。
 >补充说明：  
 >1）Apple Music 学生订阅只需5元/月。  
 2）每年苹果都会有返校优惠季，在那段时间购买指定产品可额外附赠 Beats 耳机一副。 
@@ -51,7 +51,7 @@
 - **[SiteGroud 学生计划](https://www.siteground.com/student-hosting.htm)**，WP 官方推荐的主机托管商提供 $1.99/月 高性能 CP 托管。
 - **[Spotify 学生优惠](https://www.spotify.com/hk-zh/student/)**，Spotify Premium 学生订阅半价优惠。
 - **[Pantheon 学生版](https://pantheon.io/edu)**，专业高性能网站托管的学生优惠。
-- **[大疆教育优惠](http://coupon.dji.com/cn/edu)**，大疆产品的教育折扣。
+- ~~**[大疆教育优惠](http://coupon.dji.com/cn/edu)**，大疆产品的教育折扣。(暂不开放)~~
 - **[Todoist教育优惠](https://todoist.com/education)**，强大的任务、思路整理工具提供半价教育优惠。
 - **[SetAPP教育优惠](https://setapp.com/educational-discount)**，macOS 应用合集订阅包半价优惠，非常适合MAC学生党，每月4.99刀
 - **[京东阅读校园版](http://gx.jd.com)**，一般学校都会开通试用，可以阅读里面的书籍，详情请参阅京东阅读校园版以及各学校的相关说明。
@@ -67,6 +67,8 @@
 - **[Mathematica](http://www.wolfram.com/mathematica/pricing/students-individuals.php)**， 现代科学计算软件，3折优惠 50刀，添加购物车后显示。
 - **[Tableau](https://www.tableau.com/zh-cn/academic)**， 数据可视化分析软件，对学生、教室以及教育组织提供免费使用。
 - **[ProcessOn](https://www.processon.com/)**， 一个在线协作绘图平台，为用户提供最强大、易用的作图工具！支持在线创作流程图、思维导图、BPMN、UML图、UI界面原型设计、iOS界面原型设计等。
+- **[Origin](https://www.originlab.com/OriginProLearning.aspx)**，Origin是一款理工科学生常用的作图软件，对中国学生提供6个月的免费使用。
+- **[Notion](https://www.notion.so/)**，一个将笔记、知识库和任务管理无缝整合的协作平台，通过教育邮箱验证后能获得付费版的功能。
 
 ## 推荐软件
 
