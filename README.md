@@ -3,7 +3,7 @@
 开了一个新坑，在大四毕业之前打算讲一些ZUCC学生应该知道的事情。为新入学以及在校的ZUCC小伙伴提供一些帮助。  
 [Gitbook链接](https://www.gitbook.com/read/book/hdsky/zucc-student-resources)
 
-最后更新日期：2019年11月30日
+最后更新日期：2020年03月04日
 
 ## 说明
 
@@ -38,7 +38,7 @@
 - **[阿里云 云翼计划](https://promotion.aliyun.com/ntms/campus2017.html)**，118元/年，阿里云ECS+OSS+域名+机器学习API+Clouder认证。
 - **[腾讯云+校园计划](https://www.qcloud.com/act/campus)**，10元一个月的云服务器租用，免费域名、云储存，需要抢购。
 - **[华为云+云创校园计划](https://developer.huaweicloud.com/campus)**，9元/月 24岁及以下免学生认证，实名认证即可购买，需要抢购。
-- **[百度云启航校园计划](https://cloud.baidu.com/campaign/campus-2018/index.html)**，云服务器半年124元
+- **[百度云启航校园计划](https://cloud.baidu.com/campaign/campus-2018/index.html)**，云服务器半年124元。
 - **[苹果教育商店](https://www.apple.com.cn/cn-k12/shop)**，苹果设备优惠，Music 和 Pro App 套装优惠，暑假还会有学生优惠大促销。
 >补充说明：  
 >1）Apple Music 学生订阅只需5元/月。  
@@ -53,7 +53,7 @@
 - **[Pantheon 学生版](https://pantheon.io/edu)**，专业高性能网站托管的学生优惠。
 - ~~**[大疆教育优惠](http://coupon.dji.com/cn/edu)**，大疆产品的教育折扣。(暂不开放)~~
 - **[Todoist教育优惠](https://todoist.com/education)**，强大的任务、思路整理工具提供半价教育优惠。
-- **[SetAPP教育优惠](https://setapp.com/educational-discount)**，macOS 应用合集订阅包半价优惠，非常适合MAC学生党，每月4.99刀
+- **[SetAPP教育优惠](https://setapp.com/educational-discount)**，macOS 应用合集订阅包半价优惠，非常适合MAC学生党，每月4.99刀。
 - **[京东阅读校园版](http://gx.jd.com)**，一般学校都会开通试用，可以阅读里面的书籍，详情请参阅京东阅读校园版以及各学校的相关说明。
 - **[Eagle教育优惠](http://app.eagle.cool/forum/topic/5354/%E6%88%91%E6%98%AF%E5%AD%A6%E7%94%9F%E6%88%96%E6%95%99%E5%B8%88-%E6%98%AF%E5%90%A6%E4%BA%AB%E6%9C%89%E4%BC%98%E6%83%A0%E4%BB%B7%E6%A0%BC)**, Win/Mac系统，设计师图片管理工具，支持试用一个月，原价199，优惠价139，需提供身份和证件信息。优秀的本地图片管理工具，搭配学生版OneDrive进行同步管理，美滋滋。（目前已支持图片、视频、字体等类型文件的管理）
 
@@ -80,7 +80,7 @@
 - **海底捞火锅**，在校学生在15:00-17:00,22:00-次日08:00内就餐开台并买单离开可享6.9折（优惠适用门店与时间请以商家为准）。
 - **必胜客学生优惠**，学生价八折，详见必胜客相关说明。
 
-## 浏览器插件推荐 （尚未完成）
+## 浏览器插件推荐 （咕咕咕～）
 **[专题页面](https://github.com/HDsky/zucc-student-resources/blob/master/browserplugin.md)**
 
 ## 其他建议
