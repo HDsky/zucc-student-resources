@@ -26,7 +26,7 @@
 各类学生优惠项目经过许多年的发展，很多学生包已经不单单只通过 edu 邮箱验证身份了，而且使用 @edu.cn 反而会降低申请成功率。建议使用学生证、入学通知书等有学院官方盖章和日期的工具来证明自己的身份（一般使用教育邮箱认证即可，校内邮箱经常会把发送的验证邮件当作垃圾邮件，如果在垃圾邮件中也找不到的话，还可以在‘自助查询’的栏目中的‘收信查询’中，把隔离的邮件转移出来）。
 
 - **[GitHub 学生包](https://education.github.com/pack)**，高质量的开发工具集合，并提供 DigitalOcean 的 50 美元代金券，以及 Namecheap 提供的免费.me域名一枚。
-- **[Microsoft Imagine 学生包](https://imagine.microsoft.com/zh-cn/catalog)**，免费使用微软的开发软件，包括 Windows Server 系统，以及 Azure 学生订阅。
+- **[Microsoft Azure 学生订阅](https://azure.microsoft.com/zh-cn/free/students/#free-products-section)**， Azure 学生订阅，有100美元的使用额度。
 - **[AWS 学生包](https://aws.amazon.com/cn/education/awseducate/)**，亚马逊云计算的学生包，可以获得至少 $40 的优惠和教育培训。
 - **[Autodesk 学生包](http://www.autodesk.com.cn/education/home)**，旗下 AutoCAD、3DMAX、Maya 等软件，其（教育版）免费试用期可延长至三年。
 - **[JetBrains 学生包](https://www.jetbrains.com/student/)**，免费使用各类开发工具和集成工具（比较有名的有IntelliJ IDEA、CLion、PyCharm）。
@@ -46,7 +46,6 @@
 - **[微软教育商店](https://www.microsoftstore.com.cn/student?Icid=StoreNavi_EDU)**，9折购买微软旗下的各种硬件设备。
 >其他微软系的还有：  
 >1）通过学校邮箱注册Office In Eduation可以获得 Office 365 提供的2TB教育云存储空间。  
-2）使用学生身份可以免费注册微软开发者，免去约120元的注册费用。
 - **[OnTheHub 教育商店](http://www.onthehub.com/)**，PD 和 VMware 的虚拟机优惠，以及更多软件优惠。
 - **[SiteGroud 学生计划](https://www.siteground.com/student-hosting.htm)**，WP 官方推荐的主机托管商提供 $1.99/月 高性能 CP 托管。
 - **[Spotify 学生优惠](https://www.spotify.com/hk-zh/student/)**，Spotify Premium 学生订阅半价优惠。
