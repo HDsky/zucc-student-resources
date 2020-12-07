@@ -3,7 +3,7 @@
 开了一个新坑，在大四毕业之前打算讲一些ZUCC学生应该知道的事情。为新入学以及在校的ZUCC小伙伴提供一些帮助。  
 [Gitbook链接](https://www.gitbook.com/read/book/hdsky/zucc-student-resources)
 
-最后更新日期：2020年03月04日
+最后更新日期：2020年12月07日
 
 ## 说明
 
@@ -77,6 +77,7 @@
 
 ## 生活类
 - **海底捞火锅**，在校学生在15:00-17:00,22:00-次日08:00内就餐开台并买单离开可享6.9折（优惠适用门店与时间请以商家为准）。
+- **滴滴**，学生认证之后每月四次8折
 
 ## 浏览器插件推荐 （咕咕咕～）
 **[专题页面](https://github.com/HDsky/zucc-student-resources/blob/master/browserplugin.md)**
