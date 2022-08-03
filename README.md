@@ -14,6 +14,7 @@
 
 ## 校内福利
 - **[ZUCC_VPN](https://github.com/HDsky/zucc-student-resources/blob/master/zuccvpn.md)**，学校提供了VPN服务方便学生在校外访问内网，在手机上也可以按照教程使用EasyConnect客户端进行连接，十分方便（在此安利一下自己写的[zucc寝室内外网同时访问脚本](https://github.com/HDsky/A-batchfile-for-ZUCC)，当然你要是自己会改静态路由也行，其他操作系统的原理也是相通的）。
+- **[dialEasy](https://github.com/Mahayu/zucc-student-resources/blob/master/dialEasy.md)**，为校内的移动/联通宽带用户的另一种拨号解决方案（不通过学校提供的客户端）
 - **[ZUCC_WEBVPN](http://webvpn.zucc.edu.cn)**，学校新推出的WEB版VPN（当然这种方式限制了你访问的网站）。
 - **[ZUCC学生邮箱](http://webmail.zucc.edu.cn/)**，要想获取到一些学生优惠，比较重要的前提就是证明你的学生身份，而使用学校邮箱则是最经典的方式，请熟练使用ZUCC学生邮箱。
 - **[ZUCC图书馆数字资源](http://libweb.zucc.edu.cn/redir.php?catalog_id=3701)**，很多同学在查找论文的时候会去购买知网等数字资源，但其实学校图书馆已经购买了大部分常用数据库并建立了内网镜像，实在不济还可以通过数字资源专用VPN访问浙江大学的图书馆购买的200余个数据库。因为ZUCC和ZJU的内网是互联互通的，可以访问浙大建立的所有的内网镜像。在寝室则可以使用上面提到内外网访问脚本，在大多数情况下不用频繁的往图书馆跑了。
@@ -23,7 +24,7 @@
 
 ## 学生包
 
-各类学生优惠项目经过许多年的发展，很多学生包已经不单单只通过 edu 邮箱验证身份了，而且使用 @edu.cn 反而会降低申请成功率。建议使用学生证、入学通知书等有学院官方盖章和日期的工具来证明自己的身份（一般使用教育邮箱认证即可，校内邮箱经常会把发送的验证邮件当作垃圾邮件，如果在垃圾邮件中也找不到的话，还可以在‘自助查询’的栏目中的‘收信查询’中，把隔离的邮件转移出来）。
+各类学生优惠项目经过许多年的发展，几乎所有学生包已经不单单只通过 edu 邮箱验证身份了，而且使用 @edu.cn 反而会降低申请成功率。建议使用学生证、入学通知书等有学院官方盖章和日期的工具来证明自己的身份（一般使用教育邮箱认证即可，校内邮箱经常会把发送的验证邮件当作垃圾邮件，如果在垃圾邮件中也找不到的话，还可以在‘自助查询’的栏目中的‘收信查询’中，把隔离的邮件转移出来）。
 
 - **[GitHub 学生包](https://education.github.com/pack)**，高质量的开发工具集合，并提供 DigitalOcean 的 50 美元代金券，以及 Namecheap 提供的免费.me域名一枚。
 - **[Microsoft Azure 学生订阅](https://azure.microsoft.com/zh-cn/free/students/#free-products-section)**， Azure 学生订阅，有100美元的使用额度。
